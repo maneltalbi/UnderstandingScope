@@ -12,3 +12,4 @@ C:\Users\DELL\source\repos\UnderstandingScope\UnderstandingScope\obj\Debug\net6.
 C:\Users\DELL\source\repos\UnderstandingScope\UnderstandingScope\obj\Debug\net6.0\ref\UnderstandingScope.dll
 C:\Users\DELL\source\repos\UnderstandingScope\UnderstandingScope\obj\Debug\net6.0\UnderstandingScope.pdb
 C:\Users\DELL\source\repos\UnderstandingScope\UnderstandingScope\obj\Debug\net6.0\UnderstandingScope.genruntimeconfig.cache
+C:\Users\DELL\source\repos\UnderstandingScope\UnderstandingScope\obj\Debug\net6.0\UnderstandingScope.csproj.AssemblyReference.cache
